@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lightning bulb Quiz", "Lightning bulb Quiz\Lightning bulb Quiz.pyproj", "{C76677C8-A731-408B-9CEC-F757689CB04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C76677C8-A731-408B-9CEC-F757689CB04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76677C8-A731-408B-9CEC-F757689CB04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A58E4BC-91F0-45FA-B174-2D387FF2E0EE}
+	EndGlobalSection
+EndGlobal
